@@ -1,0 +1,21 @@
+{
+    "name": "saschati/yii2-youtube-api-widget",
+    "description": "This is an extension for manipulating video through api YouTube",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","youtube"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grigorchyk Olexandr",
+            "email": "saschatimail@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "saschati\\youtube\\": ""
+        }
+    }
+}
